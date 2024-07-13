@@ -1,0 +1,286 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(Images/base.png) no-repeat center center fixed;
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.back {
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b07.png);
+    background-size: cover;
+}
+
+.back2 {
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b0);
+    background-size: cover;
+}
+
+td {
+    border: solid 20px;
+    border-color: transparent;
+}
+
+.btj0 {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 175px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.btj {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 125px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.btj2 {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.btj3 {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 175px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.btj:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btj0:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btj2:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btj3:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btj4:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btj5:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btj6:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btj7:hover {
+    background: url(Images/fond-tei.png);
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffffff; /* Noir pour les liens non visités */
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ffffff; /* Noir pour les liens visités */
+}
+
+a:hover {
+    text-decoration: underline; /* Facultatif : soulignement au survol */
+    color: #ffffff; /* Noir pour les liens survolés */
+}
+
+a:active {
+    text-decoration: none;
+    color: #ffffff; /* Noir pour les liens actifs */
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color:deeppink;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color:deeppink;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color:deeppink;
+    border-radius: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.texte {
+    margin: 30px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.rej {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: darkcyan;
+    border-radius: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.bd {
+    background-color: #5662F6;
+}
+
+.acc {
+    margin: 50px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.btj4 {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b07.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.btj5 {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b07.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.btj6 {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b07.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.bimg {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b07.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 75px;
+    height: 75px;
+    align-items: center;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
+
+.btj7 {
+    color: white; /* Texte blanc */
+    background: url(Images/b1e32dcd40d8650cc5798f6f2cfc5b07.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 190px;
+    height: 75px;
+    align-items: center;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center; /* Pour centrer le texte verticalement */
+    font-size: 40px;
+}
